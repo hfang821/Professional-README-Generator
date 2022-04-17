@@ -53,37 +53,48 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ## Project Description
+  ${renderLicenseBadge(data.licenseOptions)}
+
+  ## Table of Contents
+  * [Project Description](#description)
+  * [Installation Instructions](#instructions)
+  * [Usage Information](#usage)
+  * [Contribution Guidelines](#guidelines)
+  * [Test Instructions](#test)
+  * [Liscense](#liscense)
+  * [Username](#username)
+  * [Contact Instructions](#contact)
+
+  ## Project Description <a name="description"></a>
   ${data.description}
 
-  ## installation Instructions
+  ## Installation Instructions <a name="instructions"></a>
   ${data.installation}
 
-  ## Usage Information
+  ## Usage Information <a name="usage"></a>
   ${data.usage}
 
-  ## Contribution Guidelines
+  ## Contribution Guidelines <a name="guidelines"></a>
   ${data.guidelines}
 
-  ## Test Instructions
+  ## Test Instructions <a name="test"></a>
   ${data.test}
 
-  ## Liscense
+  ## Liscense <a name="liscense"></a>
   ${renderLicenseSection(data.licenseOptions)}
 
-  ${renderLicenseBadge(data.licenseOptions)}
 
   ${renderLicenseLink(data.licenseOptions)}
 
-  ## Username
+  ## Username <a name="username"></a>
   ${data.username}
 
-  ## Contact Instructions
+  ## Contact Instructions <a name="contact"></a>
   ${data.contact}
 
 `;
 }
 
-
-
 module.exports = generateMarkdown;
+
+
