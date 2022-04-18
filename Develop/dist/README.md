@@ -1,6 +1,6 @@
-# kevinkevinkevin
+# README Generator
 
-  ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents
   * [Project Description](#description)
@@ -13,29 +13,29 @@
   * [Contact Instructions](#contact)
 
   ## Project Description <a name="description"></a>
-  yomi
+  Helping people in need.
 
   ## Installation Instructions <a name="instructions"></a>
-  mikel
+  cd
 
   ## Usage Information <a name="usage"></a>
-  `lkdsajfllk`
+  kevin
 
   ## Contribution Guidelines <a name="guidelines"></a>
-  `ldksjflka;sdjfk`
+  free
 
   ## Test Instructions <a name="test"></a>
-  `kfldsjakfl;asdjlk;fjlk;`
+  run
 
   ## Liscense <a name="liscense"></a>
-  The Project is licensed under the Boost license
+  The Project is licensed under the MIT license
 
 
-  https://www.boost.org/LICENSE_1_0.txt
+  https://opensource.org/licenses/MIT
 
   ## Username <a name="username"></a>
-  `cool`
+  hfang821
 
   ## Contact Instructions <a name="contact"></a>
-  `contact me by calling 888-888-8888`
+  kevin
 
