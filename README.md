@@ -34,7 +34,7 @@
 ![image](https://user-images.githubusercontent.com/95199209/163871116-2607bd76-e0c6-4455-aed5-b7e7099ef541.png)
 
 4. In your editor, go to the "dist" directory and your customized portfolio generated can be used.
-![image](https://user-images.githubusercontent.com/95199209/163871214-a234179e-ca6e-4d6d-93c5-66d3f72fedf2.png)
+![image](https://user-images.githubusercontent.com/95199209/163871528-76cf3a6a-57c6-40de-8573-db60216989ca.png)
 
 ---
 
