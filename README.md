@@ -15,12 +15,17 @@
 
 ## How to Install:
 
+Walk-around Video Link:
+https://drive.google.com/file/d/1aaYCpoGklvVDzQc3eDRb1yotbUyHOIcK/view
+
 * Open Gitbash/terminal, navigate towards your project location from your root by using "cd ./ project location"
 * Choose a clone option from the "Professional-README-Generator" repository (either HTTPS or SSH should work)
 * In Gitbash, type "git clone HTTPS or SSH"
 * Once the clone is successful, navigate to the root directory of this repo.
 * Enter `npm init` into the terminal.
 * Enter `npm install inquirer` into the terminal to install the inquirer package and you are good to go!
+
+
 
 
 ## How to Use:
